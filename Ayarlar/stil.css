@@ -1,0 +1,270 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, 'sans-serif';
+  font-size: 14px;
+  color: #646464;
+  line-height: 1.5;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+}
+.MaviAlanMenusu a:link,
+.MaviAlanMenusu a:active,
+.MaviAlanMenusu a:visited,
+.MaviAlanMenusu a:hover {
+  font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, 'sans-serif';
+  font-size: 14px;
+  color: #000;
+  line-height: 1.5;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+}
+.AnaMenu a:link,
+.AnaMenu a:active,
+.AnaMenu a:visited,
+.AnaMenu a:hover {
+  font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, 'sans-serif';
+  font-size: 14px;
+  color: #000;
+  line-height: 1.5;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  text-decoration: none;
+}
+.footer {
+  background-image: linear-gradient(135deg, #e4e4b3 10%, #9452a5 100%);
+}
+.AltMenu a:link,.AltMenu a:active,.AltMenu a:visited,.AltMenu a:hover {
+  font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, 'sans-serif';
+  font-size: 14px;
+  color: #000;
+  line-height: 1.5;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.baslik {
+  font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, 'sans-serif';
+  color: rgb(110, 9, 34);
+  font-size: 26px;
+  font-style: inherit;
+  font-variant: normal;
+  font-weight: bold;
+}
+.AltMetin {
+  font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, 'sans-serif';
+  color: rgb(0, 0, 0);
+  font-size: 15px;
+  font-style: inherit;
+  font-variant: normal;
+  font-weight: normal;
+}
+.renk {
+  background-color: #bd4f6c;
+  background-image: linear-gradient(326deg, #bd4f6c 0%, #d7816a 74%);
+}
+.renk2 {
+  background-image: linear-gradient(
+    89.8deg,
+    rgba(204, 156, 223, 1) 0.3%,
+    rgba(155, 219, 245, 1) 20.4%,
+    rgba(245, 183, 208, 1) 40.2%,
+    rgba(250, 186, 98, 1) 62.9%,
+    rgba(234, 238, 240, 1) 81.9%,
+    rgba(250, 245, 171, 1) 99.2%);
+}
+.cerceve {background-image: linear-gradient(to right, #ECE9E6 0%, #FFFFFF  51%, #ECE9E6  100%)}
+.cerceve {
+   padding: 10px 20px;
+   line-height:1.5;
+   font-size: 10px;
+   font-style: inherit;
+   font-variant: normal;
+   font-weight: normal;
+   text-align: left;
+   text-transform: uppercase;
+   transition: 0.2s;
+   background-size: 200% auto;
+   color:black ;            
+   border-radius: 10px;
+   display: block;
+
+ }
+
+ .cerceve:hover {
+   background-position: right center; 
+   color: darkblue;
+   text-decoration: none;
+   box-shadow: 0 0 20px rgb(7, 30, 46);
+
+   text-decoration-color: black;
+ }
+
+ 
+ .baslik2{
+  font-size: 16px;
+  font-style: inherit;
+  font-variant: normal;
+  font-weight: normal;
+  text-align: left;
+  color:rgb(0, 0, 0);
+ }
+
+ .yazi{
+  font-size: 16px;
+  font-style: inherit;
+  font-variant: normal;
+  font-weight: normal;
+  text-align: left;
+  color:rgb(0, 0, 0);
+ }
+   
+  
+.inputhavale{
+width: 93.4%;
+height: 45%;
+padding: 5px 15px;
+}
+.havaleAciklama{
+  width: 93.4%;
+  height: 100%;
+  padding: 15px 15px;
+}
+.selecthavale{
+  width: 93.4%;
+  height: 40px;
+}
+.button2 {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color:#470f4e;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button2:hover {background-color: #3e8e41}
+.button2:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666; 
+  transform: translateY(4px);
+}
+
+
+.Soru{
+  width:100%;
+  height: 40px;
+  font-size: 16px;
+  font-style: inherit;
+  font-variant: normal;
+  font-weight: normal;
+  text-align: left;
+  color:#000000;
+  border-bottom: 1px solid black;
+  padding-top:10px;
+  cursor:pointer;
+}
+
+.Soru:hover{
+  background:#FDF2E9 ;
+  cursor:pointer;
+  
+}
+
+
+
+
+.CevapAlanı{
+  width:100%;
+  margin-top:5px;
+  font-size: 15px;
+  font-style: inherit;
+  font-variant: normal;
+  font-weight: normal;
+  text-align: left;
+  color:#154360;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.arkap{
+  background-image: (red, yellow);
+  background-image:url("arkap.jpg");
+}
+
+.inputgiris{
+  width: 30%;
+  height: 45%;
+  padding: 5px 15px;
+  }
+  .yazi1{
+    font-size: 20px;
+    font-style: inherit;
+    font-variant: normal;
+    font-weight: normal;
+    text-align: left;
+    color:rgb(0, 0, 0);
+   }
+
+
+
+
+
+
+
+
+
+.inputkargo{
+  width:60%;
+  text-align: center;
+  height: 45%;
+  padding: 5px 15px;
+  }
+.kargobtn {background-image: linear-gradient(to right, #DAE2F8 0%, #D6A4A4  51%, #DAE2F8  100%)}
+.kargobtn {
+   margin: 10px;
+   padding: 15px 35px;
+   text-align: center;
+   text-transform: uppercase;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: rgb(0, 0, 0);            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+   display: block;
+ }
+
+ .kargobtn:hover {
+   background-position: right center; 
+   color: rgb(113, 8, 122);
+   text-decoration: none;
+ }
+
+
